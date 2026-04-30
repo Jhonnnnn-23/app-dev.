@@ -4,7 +4,7 @@
 ## H2 JJBA part 7 Steel ball run
 
 
-![Steel Ball Run Cover]([image.jpg](https://upload.wikimedia.org/wikipedia/en/8/87/Steel_Ball_Run_1.jpg))
+![Steel Ball Run Cover]([image.jpg](https://upload.wikimedia.org/wikipedia/en/8/87/Steel_Ball_Run_1.jpg)
 
 
 
