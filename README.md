@@ -1,14 +1,14 @@
-# H1 "Favorite show
+#Favorite show
 
 
-## H2 JJBA part 7 Steel ball run
+## JJBA part 7 Steel ball run
 
 
 ![Steel Ball Run Cover](https://upload.wikimedia.org/wikipedia/en/8/87/Steel_Ball_Run_1.jpg)
 
 
 
-### H3 Plot Overview
+### Plot Overview
 The story follows a cross-country horse race from San Diego to New York City. While the prize money is huge, the race serves as a cover for a deeper search for Saint's Corpse parts.
 
 
